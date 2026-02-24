@@ -2280,14 +2280,15 @@ button,
 a:hover,
 iput[type="submit"]:hover,
 .butten:hover {
-	color: #E88B3A !important;
-	border-color: #E88B3A !important;
+	color: #E1AD01 !important;
+	border-color: #E1AD01 !important;
 }
 /* Align Knovosis title with right logo */
 #header .logo {
 	position: relative;
 	top: 30px;
 }
+
 
 
 
