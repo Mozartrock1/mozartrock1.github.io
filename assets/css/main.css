@@ -2314,9 +2314,17 @@ line-height: 1.7;
 	line-height: 1.2;
 }
 
+@media screen and (max-width: 736px) {
+#header {
+margin-bottom: 2.5rem;
+}
+}
 
 
-
-
+@media screen and (max-width: 736px) {
+#banner {
+padding-top: 3rem;
+}
+}
 
 
