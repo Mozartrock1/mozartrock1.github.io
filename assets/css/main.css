@@ -2283,7 +2283,9 @@ iput[type="submit"]:hover,
 	color: #E88B3A !important;
 	border-color: #E88B3A !important;
 }
-
-
-
+/* Align Knovosis title with right logo */
+#header .logo {
+	position: relative;
+	top: 8px;
+}
 
