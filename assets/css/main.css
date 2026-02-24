@@ -2276,4 +2276,11 @@ button,
 	width: auto;
 	max-width: 150px;
 }
+/*Color Hover Refinement */
+a:hover,
+iput[type="submit"]:hover,
+.butten:hover {
+	color: #B88900 !important;
+	border-color: #B88900 !important;
+}
 
