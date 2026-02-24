@@ -4,6 +4,7 @@
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2264,10 +2265,8 @@ button,
     padding-left: 1em; }
     #menu > ul > li > ul a, #menu > ul > li > ul span {
       font-size: 0.8em; }
-    #menu > ul > li > ul > li {
-      margin: 0.125em 0 0 0;
-      padding: 0.125em 0 0 0; }
-  #menu > ul > li:first-child {
-    border-top: 0;
-    margin-top: 0;
-    padding-top: 0; }
+/* Header logo on right */
+#header .header-logo {
+	height: 36px;
+	margin-top: 0.25rem;
+}
