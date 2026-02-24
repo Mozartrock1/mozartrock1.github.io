@@ -2267,14 +2267,14 @@ button,
       font-size: 0.8em; }
 /* Header logo on right */
 #header .header-logo {
-	height: 44px;
+	height: 48px;
 	margin-top: 0.25rem;
 }
 /* Header logo sizing */
 #header img {
-	height: 44px;
+	height: 48px;
 	width: auto;
-	max-width: 165px;
+	max-width: 180px;
 }
 /*Color Hover Refinement */
 a:hover,
@@ -2286,8 +2286,9 @@ iput[type="submit"]:hover,
 /* Align Knovosis title with right logo */
 #header .logo {
 	position: relative;
-	top: 18px;
+	top: 24px;
 }
+
 
 
 
