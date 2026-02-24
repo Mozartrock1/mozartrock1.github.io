@@ -2315,8 +2315,12 @@ line-height: 1.7;
 }
 
 @media screen and (max-width: 736px) {
-#banner {
-padding-top: 3rem;
+#main {
+padding-top: 5.5rem;
+}
+
+#banner header {
+margin-top: 1.5rem;
 }
 }
 
