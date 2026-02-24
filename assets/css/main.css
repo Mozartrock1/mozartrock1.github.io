@@ -2270,4 +2270,9 @@ button,
 	height: 36px;
 	margin-top: 0.25rem;
 }
-
+/* Header logo sizing */
+#header img {
+	height: 40px;
+	width: auto;
+	max-width: 150px;
+}
