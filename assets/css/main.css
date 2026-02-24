@@ -2286,7 +2286,7 @@ iput[type="submit"]:hover,
 /* Align Knovosis title with right logo */
 #header .logo {
 	position: relative;
-	top: 30px;
+	top: 32px;
 }
 p {
 	text-align: justify;
@@ -2326,5 +2326,6 @@ margin-bottom: 2.5rem;
 padding-top: 3rem;
 }
 }
+
 
 
