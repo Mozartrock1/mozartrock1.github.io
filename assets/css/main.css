@@ -2288,6 +2288,9 @@ iput[type="submit"]:hover,
 	position: relative;
 	top: 30px;
 }
+p {
+	text-align: justify;
+}
 
 
 
