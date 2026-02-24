@@ -2267,14 +2267,14 @@ button,
       font-size: 0.8em; }
 /* Header logo on right */
 #header .header-logo {
-	height: 36px;
+	height: 44px;
 	margin-top: 0.25rem;
 }
 /* Header logo sizing */
 #header img {
-	height: 40px;
+	height: 44px;
 	width: auto;
-	max-width: 150px;
+	max-width: 165px;
 }
 /*Color Hover Refinement */
 a:hover,
@@ -2283,6 +2283,7 @@ iput[type="submit"]:hover,
 	color: #E88B3A !important;
 	border-color: #E88B3A !important;
 }
+
 
 
 
