@@ -2199,7 +2199,7 @@ button,
   #footer .copyright a {
     color: inherit; }
 #footer {
-	padding: 2em 0;
+	margin-top: 2em;
 }
 
 /* Menu */
@@ -2330,6 +2330,7 @@ padding-bottom: 30px;
 }
 
 }
+
 
 
 
