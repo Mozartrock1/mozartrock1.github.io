@@ -2315,6 +2315,32 @@ line-height: 1.7;
 }
 
 
+@media screen and (max-width: 736px) {
+
+#header {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+padding: 10px 16px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+box-sizing: border-box;
+z-index: 1000;
+}
+
+#header img {
+max-width: 130px; /* adjust if needed */
+height: auto;
+}
+
+body {
+padding-top: 80px; /* prevents content overlap */
+}
+
+}
+
 
 
 
