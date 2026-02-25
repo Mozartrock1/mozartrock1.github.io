@@ -2352,6 +2352,24 @@ align-items: center;
 padding: 0 15px;
 }
 
+#header {
+position: fixed;
+top: 0;
+width: 100%;
+padding: 10px 16px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background: white;
+box-sizing: border-box;
+}
+
+.logo-right img {
+max-width: 120px;
+height: auto;
+}
+
+
 
 
 
