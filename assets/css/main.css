@@ -1395,6 +1395,9 @@ ul.contact {
         top: 0; }
     ul.contact li a {
       color: inherit; }
+ul.contact li:last-child {
+      margin-bottom: 0;
+}
 
 /* Pagination */
 ul.pagination {
@@ -2321,6 +2324,7 @@ padding-bottom: 30px;
 }
 
 }
+
 
 
 
