@@ -2316,21 +2316,24 @@ line-height: 1.7;
 
 @media screen and (max-width: 736px) {
 
-/* Make header stay fixed */
-#header {
+/* Make ONLY the left title fixed */
+#banner h2 { /* change h2 if your title uses different tag */
 position: fixed;
 top: 0;
 left: 0;
 width: 100%;
-background: #ffffff; /* prevents overlap transparency */
+background: #ffffff;
+padding: 15px 16px;
 z-index: 9999;
+margin: 0;
 }
 
-/* Push content down exactly below header */
+/* Push rest of banner down */
 #banner {
-margin-top: 110px; /* Based on your screenshot header height */
+margin-top: 80px;
 }
 
 }
+
 
 
