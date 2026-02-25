@@ -2314,60 +2314,6 @@ line-height: 1.7;
 	line-height: 1.2;
 }
 
-@media screen and (max-width: 736px) {
-
-#header {
-position: fixed;
-top: 0;
-width: 100%;
-height: 80px;
-background: white;
-z-index: 1000;
-}
-
-#main {
-margin-top: 80px;
-}
-
-}
-
-body {
-	padding-top: 80px;
-}
-
-@media screen and (max-width: 736px) {
-
-#header img {
-	max-width: 120px;
-	height: auto;
-}
-
-}
-
-
-#header {
-display: flex;
-justify-content: space-between;
-align-items: center;
-padding: 0 15px;
-}
-
-#header {
-position: fixed;
-top: 0;
-width: 100%;
-padding: 10px 16px;
-display: flex;
-justify-content: space-between;
-align-items: center;
-background: white;
-box-sizing: border-box;
-}
-
-.logo-right img {
-max-width: 120px;
-height: auto;
-}
 
 
 
