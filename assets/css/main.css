@@ -2335,7 +2335,14 @@ body {
 	padding-top: 80px;
 }
 
+@media screen and (max-width: 736px) {
 
+#header img {
+	max-width: 120px;
+	height: auto;
+}
+
+}
 
 
 
