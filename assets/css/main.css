@@ -2315,12 +2315,12 @@ line-height: 1.7;
 }
 
 @media screen and (max-width: 736px) {
-#main {
-padding-top: 5.5rem;
+#header {
+position: relative;
 }
 
-#banner header {
-margin-top: 1.5rem;
+#main {
+padding-top: 7.5rem;
 }
 }
 
