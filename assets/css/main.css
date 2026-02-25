@@ -1,7 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
-/*
-	Editorial by HTML5 UP
+/*	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -1399,6 +1398,9 @@ ul.contact li:last-child {
       margin-bottom: 0;
 	  pedding-bottom: 0;
 }
+ul.contact {
+      margin-bottom: 0;
+}
 
 /* Pagination */
 ul.pagination {
@@ -2325,6 +2327,7 @@ padding-bottom: 30px;
 }
 
 }
+
 
 
 
