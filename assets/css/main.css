@@ -2198,6 +2198,9 @@ button,
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
+#footer {
+	padding: 2em 0;
+}
 
 /* Menu */
 #menu ul {
@@ -2327,6 +2330,7 @@ padding-bottom: 30px;
 }
 
 }
+
 
 
 
