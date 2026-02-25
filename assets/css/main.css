@@ -2314,35 +2314,23 @@ line-height: 1.7;
 	line-height: 1.2;
 }
 
-
 @media screen and (max-width: 736px) {
 
+/* Make header stay fixed */
 #header {
 position: fixed;
 top: 0;
 left: 0;
 width: 100%;
-padding: 10px 16px;
-display: flex;
-justify-content: space-between;
-align-items: center;
-box-sizing: border-box;
-z-index: 1000;
+background: #ffffff; /* prevents overlap transparency */
+z-index: 9999;
 }
 
-#header img {
-max-width: 130px; /* adjust if needed */
-height: auto;
-}
-
-body {
-padding-top: 80px; /* prevents content overlap */
+/* Push content down exactly below header */
+#banner {
+margin-top: 110px; /* Based on your screenshot header height */
 }
 
 }
-
-
-
-
 
 
