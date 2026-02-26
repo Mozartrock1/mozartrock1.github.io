@@ -2350,6 +2350,12 @@ margin-bottom: 0em;
 }
 
 
+/*Reduce vertical spacing*/
+p {
+	margin-bottom: 0.8em;
+}
+
+
 
 
 
