@@ -2347,9 +2347,10 @@ margin-bottom: 0em;
 /*Fix image size*/
 
 .Why KNOVOSIS-page .image.object img {
-	max-width: 400px;
+	max-width: 300px;
 	height: auto;
 }
+
 
 
 
