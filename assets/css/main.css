@@ -2333,23 +2333,23 @@ padding-bottom: 30px;
 @media screen and (min-width: 981px) {
 
 p {
-margin-bottom: 0.8em;
+margin-bottom: 1em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-margin-bottom: 0.6em;
+margin-bottom: 1em;
 }
 
 header.major {
-margin-bottom: 1.5em;
-}
-
-section {
 margin-bottom: 2em;
 }
 
+section {
+margin-bottom: 2.5em;
+}
+
 .image {
-margin: 1em 0;
+margin: 1.5em 0;
 }
 
 }
@@ -2363,6 +2363,7 @@ padding-bottom: 0 !important;
 }
 
 }
+
 
 
 
