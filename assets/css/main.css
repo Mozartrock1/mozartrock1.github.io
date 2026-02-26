@@ -2342,19 +2342,6 @@ margin-bottom: 0em;
 
 }
 
-/*reduce heading size*/
-@media screen and (min-width: 981px) {
-	.Why-KNOVOSIS-page h1 {
-		font-size: 1.5rem;
-	}
-}
-
-
-/*Reduce vertical spacing*/
-p {
-	margin-bottom: 0.4em;
-}
-
 
 
 
