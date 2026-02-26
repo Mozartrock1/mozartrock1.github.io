@@ -2345,9 +2345,10 @@ margin-bottom: 0em;
 /*reduce heading size*/
 @media screen and (min-width: 981px) {
 	.Why-KNOVOSIS-page h1 {
-		font-size: 2rem;
+		font-size: 1.5rem;
 	}
 }
+
 
 
 
