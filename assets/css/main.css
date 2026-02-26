@@ -2344,6 +2344,12 @@ margin-bottom: 0em;
 
 
 
+/*Fix image size*/
+
+.Why KNOVOSIS-page #banner image.main img {
+	max-width: 500px;
+	height: auto;
+}
 
 
 
