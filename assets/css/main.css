@@ -2329,6 +2329,30 @@ padding-bottom: 30px;
 }
 
 
+/* Desktop only spacing adjustments */
+@media screen and (min-width: 981px) {
+
+p {
+margin-bottom: 0.8em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+margin-bottom: 0.6em;
+}
+
+header.major {
+margin-bottom: 1.5em;
+}
+
+section {
+margin-bottom: 2em;
+}
+
+.image {
+margin: 1em 0;
+}
+
+}
 
 
 
