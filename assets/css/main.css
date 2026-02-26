@@ -2329,6 +2329,19 @@ padding-bottom: 30px;
 }
 
 
+/* Light desktop spacing adjustment */
+@media screen and (min-width: 981px) {
+
+section {
+margin-bottom: 3em;
+}
+
+header.major {
+margin-bottom: 2em;
+}
+
+}
+
 
 
 
