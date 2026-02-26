@@ -1399,7 +1399,7 @@ ul.contact li:last-child {
 	  pedding-bottom: 0;
 }
 ul.contact {
-      margin-bottom: 0;
+      margin-bottom: 1em;
 }
 
 /* Pagination */
@@ -2381,6 +2381,7 @@ margin-bottom: 0.5em !important;
 }
 
 }
+
 
 
 
