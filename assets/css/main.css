@@ -2333,7 +2333,7 @@ padding-bottom: 30px;
 @media screen and (min-width: 981px) {
 
 section {
-margin-bottom: 1em;
+margin-bottom: 0.5em;
 }
 
 header.major {
@@ -2341,6 +2341,7 @@ margin-bottom: 0em;
 }
 
 }
+
 
 
 
