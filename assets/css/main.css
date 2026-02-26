@@ -2354,6 +2354,15 @@ margin: 1em 0;
 
 }
 
+/* Reduce space between sections on desktop only */
+@media screen and (min-width: 981px) {
+
+section {
+margin-bottom: 2em !important;
+padding-bottom: 0 !important;
+}
+
+}
 
 
 
