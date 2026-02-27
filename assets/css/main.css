@@ -2345,13 +2345,14 @@ margin-bottom: 0em;
 
 /* Reduce gap between image and hr on Why Knovosis page */
 .why-knovosis-page .image.object {
-margin-bottom: 1em;
+margin-bottom: 0.5em;
 }
 
 .why-knovosis-page hr.major {
-margin-top: 1.5em;
-margin-bottom: 1.5em;
+margin-top: 1em;
+margin-bottom: 1em;
 }
+
 
 
 
