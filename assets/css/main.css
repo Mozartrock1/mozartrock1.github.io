@@ -2342,4 +2342,8 @@ margin-bottom: 0em;
 
 }
 
+/* Reduce space between sections */
+.wrapper > section {
+padding: 3em 0 2em 0 !important;
+}
 
