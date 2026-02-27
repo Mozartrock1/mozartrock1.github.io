@@ -2342,8 +2342,36 @@ margin-bottom: 0em;
 
 }
 
+/* ===== Global Spacing Reduction ===== */
+
+/* Reduce section spacing */
+section {
+padding: 3em 0;
+}
+
+/* Reduce header spacing */
+header {
+margin-bottom: 1.5em;
+}
+
+/* Reduce paragraph spacing */
+p {
+margin-bottom: 0.8em;
+}
+
+/* Reduce heading spacing */
+h1, h2, h3, h4, h5, h6 {
+margin-bottom: 0.8em;
+}
+
+/* Reduce horizontal rule spacing */
+hr {
+margin: 1.5em 0;
+}
+
+/* Reduce image spacing */
 .image {
-	margin: 1em 0;
+margin: 1em 0;
 }
 
 
