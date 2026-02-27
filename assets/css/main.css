@@ -2346,22 +2346,22 @@ margin-bottom: 0em;
 
 /* Reduce section spacing */
 section {
-padding: 3em 0;
+padding: 2em 0;
 }
 
 /* Reduce header spacing */
 header {
-margin-bottom: 1.5em;
+margin-bottom: 1em;
 }
 
 /* Reduce paragraph spacing */
 p {
-margin-bottom: 0.8em;
+margin-bottom: 0.6em;
 }
 
 /* Reduce heading spacing */
 h1, h2, h3, h4, h5, h6 {
-margin-bottom: 0.8em;
+margin-bottom: 0.6em;
 }
 
 /* Reduce horizontal rule spacing */
@@ -2371,8 +2371,9 @@ margin: 1.5em 0;
 
 /* Reduce image spacing */
 .image {
-margin: 1em 0;
+margin: 0.5em 0;
 }
+
 
 
 
