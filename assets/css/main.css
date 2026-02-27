@@ -2342,39 +2342,33 @@ margin-bottom: 0em;
 
 }
 
-/* ===== Global Spacing Reduction ===== */
 
-/* Reduce section spacing */
-section {
-padding: 2em 0;
+/* ===== FORCE GLOBAL SPACING REDUCTION ===== */
+
+body p {
+margin-bottom: 0.8em !important;
 }
 
-/* Reduce header spacing */
-header {
-margin-bottom: 1em;
+body section {
+padding: 3em 0 !important;
 }
 
-/* Reduce paragraph spacing */
-p {
-margin-bottom: 0.6em;
+body .image {
+margin: 1em 0 !important;
 }
 
-/* Reduce heading spacing */
-h1, h2, h3, h4, h5, h6 {
-margin-bottom: 0.6em;
+body hr {
+margin: 1.5em 0 !important;
 }
 
-/* Reduce horizontal rule spacing */
-hr {
-margin: 1.5em 0;
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+margin-bottom: 0.8em !important;
 }
-
-/* Reduce image spacing */
-.image {
-margin: 0.5em 0;
-}
-
-
 
 
 
