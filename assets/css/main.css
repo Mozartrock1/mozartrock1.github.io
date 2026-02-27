@@ -2343,12 +2343,14 @@ margin-bottom: 0em;
 }
 
 
+/* Reduce gap between image and hr on Why Knovosis page */
+.why-knovosis-page .image.object {
+margin-bottom: 1em;
+}
 
-/*Fix image size*/
-
-.Why-KNOVOSIS-page .image.object img {
-	max-width: 300px;
-	height: auto;
+.why-knovosis-page hr.major {
+margin-top: 1.5em;
+margin-bottom: 1.5em;
 }
 
 
